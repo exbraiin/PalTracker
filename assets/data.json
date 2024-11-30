@@ -1,0 +1,3739 @@
+[
+    {
+        "key": "001",
+        "name": "Lamball",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "wool",
+            "lamball_mutton"
+        ]
+    },
+    {
+        "key": "002",
+        "name": "Cattiva",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "mining",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "red_berries"
+        ]
+    },
+    {
+        "key": "003",
+        "name": "Chikipi",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "egg",
+            "chikipi_poultry"
+        ]
+    },
+    {
+        "key": "004",
+        "name": "Lifmunk",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "lumbering",
+                "level": 1
+            },
+            {
+                "type": "medicine_production",
+                "level": 1
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "berry_seeds",
+            "low_grade_medical_supplies"
+        ]
+    },
+    {
+        "key": "005",
+        "name": "Foxparks",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "leather",
+            "flame_organ"
+        ]
+    },
+    {
+        "key": "006",
+        "name": "Fuack",
+        "types": [
+            "water"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "watering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "leather",
+            "pal_fluids"
+        ]
+    },
+    {
+        "key": "007",
+        "name": "Sparkit",
+        "types": [
+            "electric"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "generating_electricity",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "electric_organ"
+        ]
+    },
+    {
+        "key": "008",
+        "name": "Tanzee",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "lumbering",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "mushroom"
+        ]
+    },
+    {
+        "key": "009",
+        "name": "Rooby",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "flame_organ",
+            "leather"
+        ]
+    },
+    {
+        "key": "010",
+        "name": "Pengullet",
+        "types": [
+            "water",
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "watering",
+                "level": 1
+            },
+            {
+                "type": "cooling",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "ice_organ",
+            "pal_fluids"
+        ]
+    },
+    {
+        "key": "011",
+        "name": "Penking",
+        "types": [
+            "water",
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            },
+            {
+                "type": "watering",
+                "level": 2
+            },
+            {
+                "type": "mining",
+                "level": 2
+            },
+            {
+                "type": "cooling",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "ice_organ",
+            "penking_plume"
+        ]
+    },
+    {
+        "key": "012",
+        "name": "Jolthog",
+        "types": [
+            "electric"
+        ],
+        "work": [
+            {
+                "type": "generating_electricity",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "electric_organ"
+        ]
+    },
+    {
+        "key": "012B",
+        "name": "Jolthog Cryst",
+        "types": [
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "cooling",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "ice_organ"
+        ]
+    },
+    {
+        "key": "013",
+        "name": "Gumoss",
+        "types": [
+            "grass",
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "berry_seeds",
+            "gumoss_leaf"
+        ]
+    },
+    {
+        "key": "014",
+        "name": "Vixy",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "leather",
+            "bone"
+        ]
+    },
+    {
+        "key": "015",
+        "name": "Hoocrates",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "fiber",
+            "high_grade_technical_manual"
+        ]
+    },
+    {
+        "key": "016",
+        "name": "Teafant",
+        "types": [
+            "water"
+        ],
+        "work": [
+            {
+                "type": "watering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "pal_fluids"
+        ]
+    },
+    {
+        "key": "017",
+        "name": "Depresso",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "mining",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "venom_gland"
+        ]
+    },
+    {
+        "key": "018",
+        "name": "Cremis",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "wool"
+        ]
+    },
+    {
+        "key": "019",
+        "name": "Daedream",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "venom_gland",
+            "small_pal_soul"
+        ]
+    },
+    {
+        "key": "020",
+        "name": "Rushoar",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "mining",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "rushoar_pork",
+            "leather",
+            "bone"
+        ]
+    },
+    {
+        "key": "021",
+        "name": "Nox",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "leather",
+            "small_pal_soul"
+        ]
+    },
+    {
+        "key": "022",
+        "name": "Fuddler",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "mining",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "leather"
+        ]
+    },
+    {
+        "key": "023",
+        "name": "Killamari",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "transporting",
+                "level": 2
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "venom_gland"
+        ]
+    },
+    {
+        "key": "024",
+        "name": "Mau",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "gold_coin"
+        ]
+    },
+    {
+        "key": "024B",
+        "name": "Mau Cryst",
+        "types": [
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "cooling",
+                "level": 1
+            },
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "ice_organ",
+            "sapphire"
+        ]
+    },
+    {
+        "key": "025",
+        "name": "Celaray",
+        "types": [
+            "water"
+        ],
+        "work": [
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "watering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "pal_fluids"
+        ]
+    },
+    {
+        "key": "026",
+        "name": "Direhowl",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "leather",
+            "ruby",
+            "gold_coin"
+        ]
+    },
+    {
+        "key": "027",
+        "name": "Tocotoco",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "gunpowder",
+            "tocotoco_feather"
+        ]
+    },
+    {
+        "key": "028",
+        "name": "Flopie",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "medicine_production",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "low_grade_medical_supplies",
+            "wheat_seeds"
+        ]
+    },
+    {
+        "key": "029",
+        "name": "Mozzarina",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "mozzarina_meat",
+            "milk"
+        ]
+    },
+    {
+        "key": "030",
+        "name": "Bristla",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "medicine_production",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "wheat_seeds",
+            "lettuce_seeds"
+        ]
+    },
+    {
+        "key": "031",
+        "name": "Gobfin",
+        "types": [
+            "water"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "watering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "pal_fluids"
+        ]
+    },
+    {
+        "key": "031B",
+        "name": "Gobfin Ignis",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "flame_organ"
+        ]
+    },
+    {
+        "key": "032",
+        "name": "Hangyu",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "fiber"
+        ]
+    },
+    {
+        "key": "032B",
+        "name": "Hangyu Cryst",
+        "types": [
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "cooling",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "fiber",
+            "ice_organ"
+        ]
+    },
+    {
+        "key": "033",
+        "name": "Mossanda",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "mushroom",
+            "leather",
+            "tomato_seeds"
+        ]
+    },
+    {
+        "key": "033B",
+        "name": "Mossanda Lux",
+        "types": [
+            "electric"
+        ],
+        "work": [
+            {
+                "type": "generating_electricity",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "mushroom",
+            "electric_organ",
+            "leather"
+        ]
+    },
+    {
+        "key": "034",
+        "name": "Woolipop",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "cotton_candy",
+            "high_quality_pal_oil"
+        ]
+    },
+    {
+        "key": "035",
+        "name": "Caprity",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 2
+            },
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "caprity_meat",
+            "red_berries",
+            "horn"
+        ]
+    },
+    {
+        "key": "036",
+        "name": "Melpaca",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "wool",
+            "leather"
+        ]
+    },
+    {
+        "key": "037",
+        "name": "Eikthyrdeer",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "lumbering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "eikthyrdeer_venison",
+            "leather",
+            "horn"
+        ]
+    },
+    {
+        "key": "037B",
+        "name": "Eikthyrdeer Terra",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "lumbering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "eikthyrdeer_venison",
+            "leather",
+            "horn"
+        ]
+    },
+    {
+        "key": "038",
+        "name": "Nitewing",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "leather"
+        ]
+    },
+    {
+        "key": "039",
+        "name": "Ribbuny",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "leather",
+            "beautiful_flower"
+        ]
+    },
+    {
+        "key": "040",
+        "name": "Incineram",
+        "types": [
+            "fire",
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            },
+            {
+                "type": "mining",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "horn",
+            "leather"
+        ]
+    },
+    {
+        "key": "040B",
+        "name": "Incineram Noct",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "mining",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "horn",
+            "leather"
+        ]
+    },
+    {
+        "key": "041",
+        "name": "Cinnamoth",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 2
+            },
+            {
+                "type": "medicine_production",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "honey",
+            "lettuce_seeds",
+            "wheat_seeds"
+        ]
+    },
+    {
+        "key": "042",
+        "name": "Arsox",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "horn",
+            "flame_organ"
+        ]
+    },
+    {
+        "key": "043",
+        "name": "Dumud",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "watering",
+                "level": 1
+            },
+            {
+                "type": "mining",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "raw_dumud",
+            "high_quality_pal_oil"
+        ]
+    },
+    {
+        "key": "044",
+        "name": "Cawgnito",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "lumbering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "bone",
+            "venom_gland",
+            "small_pal_soul"
+        ]
+    },
+    {
+        "key": "045",
+        "name": "Leezpunk",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "copper_key",
+            "silver_key"
+        ]
+    },
+    {
+        "key": "045B",
+        "name": "Leezpunk Ignis",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "flame_organ",
+            "silver_key"
+        ]
+    },
+    {
+        "key": "046",
+        "name": "Loupmoon",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "bone"
+        ]
+    },
+    {
+        "key": "047",
+        "name": "Galeclaw",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "galeclaw_poultry",
+            "leather"
+        ]
+    },
+    {
+        "key": "048",
+        "name": "Robinquill",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 1
+            },
+            {
+                "type": "medicine_production",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            },
+            {
+                "type": "gathering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "wheat_seeds",
+            "arrow"
+        ]
+    },
+    {
+        "key": "048B",
+        "name": "Robinquill Terra",
+        "types": [
+            "grass",
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "medicine_production",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "wheat_seeds",
+            "arrow"
+        ]
+    },
+    {
+        "key": "049",
+        "name": "Gorirat",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "leather",
+            "bone"
+        ]
+    },
+    {
+        "key": "049B",
+        "name": "Gorirat Terra",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "mining",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "leather",
+            "bone"
+        ]
+    },
+    {
+        "key": "050",
+        "name": "Beegarde",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "lumbering",
+                "level": 1
+            },
+            {
+                "type": "medicine_production",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "honey"
+        ]
+    },
+    {
+        "key": "051",
+        "name": "Elizabee",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 1
+            },
+            {
+                "type": "medicine_production",
+                "level": 2
+            },
+            {
+                "type": "gathering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "honey",
+            "elizabee's_staff"
+        ]
+    },
+    {
+        "key": "052",
+        "name": "Grintale",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "high_quality_pal_oil"
+        ]
+    },
+    {
+        "key": "053",
+        "name": "Swee",
+        "types": [
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "cooling",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "wool"
+        ]
+    },
+    {
+        "key": "054",
+        "name": "Sweepa",
+        "types": [
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 2
+            },
+            {
+                "type": "cooling",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "wool"
+        ]
+    },
+    {
+        "key": "055",
+        "name": "Chillet",
+        "types": [
+            "ice",
+            "dragon"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "cooling",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "leather"
+        ]
+    },
+    {
+        "key": "055B",
+        "name": "Chillet Ignis",
+        "types": [
+            "fire",
+            "dragon"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "kindling",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "leather"
+        ]
+    },
+    {
+        "key": "056",
+        "name": "Univolt",
+        "types": [
+            "electric"
+        ],
+        "work": [
+            {
+                "type": "generating_electricity",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "leather",
+            "electric_organ",
+            "horn"
+        ]
+    },
+    {
+        "key": "057",
+        "name": "Foxcicle",
+        "types": [
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "cooling",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "leather",
+            "ice_organ"
+        ]
+    },
+    {
+        "key": "058",
+        "name": "Pyrin",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "flame_organ",
+            "leather"
+        ]
+    },
+    {
+        "key": "058B",
+        "name": "Pyrin Noct",
+        "types": [
+            "fire",
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "flame_organ",
+            "leather"
+        ]
+    },
+    {
+        "key": "059",
+        "name": "Reindrix",
+        "types": [
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "cooling",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "reindrix_venison",
+            "leather",
+            "horn",
+            "ice_organ"
+        ]
+    },
+    {
+        "key": "060",
+        "name": "Rayhound",
+        "types": [
+            "electric"
+        ],
+        "work": [
+            {
+                "type": "generating_electricity",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "electric_organ"
+        ]
+    },
+    {
+        "key": "061",
+        "name": "Kitsun",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "flame_organ",
+            "leather"
+        ]
+    },
+    {
+        "key": "062",
+        "name": "Dazzi",
+        "types": [
+            "electric"
+        ],
+        "work": [
+            {
+                "type": "generating_electricity",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "electric_organ"
+        ]
+    },
+    {
+        "key": "063",
+        "name": "Lunaris",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "paldium_fragment"
+        ]
+    },
+    {
+        "key": "064",
+        "name": "Dinossom",
+        "types": [
+            "grass",
+            "dragon"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "wheat_seeds"
+        ]
+    },
+    {
+        "key": "064B",
+        "name": "Dinossom Lux",
+        "types": [
+            "electric",
+            "dragon"
+        ],
+        "work": [
+            {
+                "type": "generating_electricity",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "tomato_seeds"
+        ]
+    },
+    {
+        "key": "065",
+        "name": "Surfent",
+        "types": [
+            "water"
+        ],
+        "work": [
+            {
+                "type": "watering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "pal_fluids"
+        ]
+    },
+    {
+        "key": "065B",
+        "name": "Surfent Terra",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "pal_fluids"
+        ]
+    },
+    {
+        "key": "066",
+        "name": "Maraith",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 2
+            },
+            {
+                "type": "mining",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "bone",
+            "small_pal_soul"
+        ]
+    },
+    {
+        "key": "067",
+        "name": "Digtoise",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "mining",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "ore",
+            "high_quality_pal_oil"
+        ]
+    },
+    {
+        "key": "068",
+        "name": "Tombat",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 2
+            },
+            {
+                "type": "mining",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "leather",
+            "small_pal_soul"
+        ]
+    },
+    {
+        "key": "069",
+        "name": "Lovander",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "medicine_production",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            },
+            {
+                "type": "mining",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "mushroom",
+            "cake",
+            "suspicious_juice",
+            "strange_juice"
+        ]
+    },
+    {
+        "key": "070",
+        "name": "Flambelle",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "flame_organ",
+            "high_quality_pal_oil"
+        ]
+    },
+    {
+        "key": "071",
+        "name": "Vanwyrm",
+        "types": [
+            "fire",
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "bone",
+            "ruby",
+            "gold_coin"
+        ]
+    },
+    {
+        "key": "071B",
+        "name": "Vanwyrm Cryst",
+        "types": [
+            "ice",
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "cooling",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "bone",
+            "ice_organ",
+            "sapphire"
+        ]
+    },
+    {
+        "key": "072",
+        "name": "Bushi",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 3
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "bone",
+            "ingot"
+        ]
+    },
+    {
+        "key": "072B",
+        "name": "Bushi Noct",
+        "types": [
+            "fire",
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 3
+            },
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "flame_organ",
+            "ingot",
+            "medium_pal_soul"
+        ]
+    },
+    {
+        "key": "073",
+        "name": "Beakon",
+        "types": [
+            "electric"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "generating_electricity",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "electric_organ"
+        ]
+    },
+    {
+        "key": "074",
+        "name": "Ragnahawk",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 3
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "flame_organ"
+        ]
+    },
+    {
+        "key": "075",
+        "name": "Katress",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "medicine_production",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "leather",
+            "katress_hair",
+            "high_grade_technical_manual"
+        ]
+    },
+    {
+        "key": "075B",
+        "name": "Katress Ignis",
+        "types": [
+            "dark",
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "medicine_production",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "kindling",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "leather",
+            "katress_hair",
+            "high_grade_technical_manual"
+        ]
+    },
+    {
+        "key": "076",
+        "name": "Wixen",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 3
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "flame_organ",
+            "high_grade_technical_manual"
+        ]
+    },
+    {
+        "key": "076B",
+        "name": "Wixen Noct",
+        "types": [
+            "fire",
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 3
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "medium_pal_soul",
+            "high_grade_technical_manual"
+        ]
+    },
+    {
+        "key": "077",
+        "name": "Verdash",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 3
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 3
+            },
+            {
+                "type": "planting",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "leather",
+            "bone"
+        ]
+    },
+    {
+        "key": "078",
+        "name": "Vaelet",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "medicine_production",
+                "level": 3
+            },
+            {
+                "type": "planting",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "low_grade_medical_supplies",
+            "tomato_seeds"
+        ]
+    },
+    {
+        "key": "079",
+        "name": "Sibelyx",
+        "types": [
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "medicine_production",
+                "level": 2
+            },
+            {
+                "type": "cooling",
+                "level": 2
+            },
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "high_quality_cloth",
+            "ice_organ"
+        ]
+    },
+    {
+        "key": "080",
+        "name": "Elphidran",
+        "types": [
+            "dragon"
+        ],
+        "work": [
+            {
+                "type": "lumbering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "high_quality_pal_oil"
+        ]
+    },
+    {
+        "key": "080B",
+        "name": "Elphidran Aqua",
+        "types": [
+            "dragon",
+            "water"
+        ],
+        "work": [
+            {
+                "type": "watering",
+                "level": 3
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "high_quality_pal_oil"
+        ]
+    },
+    {
+        "key": "081",
+        "name": "Kelpsea",
+        "types": [
+            "water"
+        ],
+        "work": [
+            {
+                "type": "watering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "raw_kelpsea",
+            "pal_fluids"
+        ]
+    },
+    {
+        "key": "081B",
+        "name": "Kelpsea Ignis",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "raw_kelpsea",
+            "flame_organ"
+        ]
+    },
+    {
+        "key": "082",
+        "name": "Azurobe",
+        "types": [
+            "water",
+            "dragon"
+        ],
+        "work": [
+            {
+                "type": "watering",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "cloth",
+            "precious_dragon_stone"
+        ]
+    },
+    {
+        "key": "083",
+        "name": "Cryolinx",
+        "types": [
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "cooling",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "ice_organ"
+        ]
+    },
+    {
+        "key": "084",
+        "name": "Blazehowl",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 3
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "flame_organ"
+        ]
+    },
+    {
+        "key": "084B",
+        "name": "Blazehowl Noct",
+        "types": [
+            "fire",
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 3
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "flame_organ"
+        ]
+    },
+    {
+        "key": "085",
+        "name": "Relaxaurus",
+        "types": [
+            "dragon",
+            "water"
+        ],
+        "work": [
+            {
+                "type": "watering",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "high_quality_pal_oil",
+            "ruby"
+        ]
+    },
+    {
+        "key": "085B",
+        "name": "Relaxaurus Lux",
+        "types": [
+            "dragon",
+            "electric"
+        ],
+        "work": [
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "generating_electricity",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "high_quality_pal_oil",
+            "electric_organ",
+            "sapphire"
+        ]
+    },
+    {
+        "key": "086",
+        "name": "Broncherry",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "broncherry_meat",
+            "tomato_seeds"
+        ]
+    },
+    {
+        "key": "086B",
+        "name": "Broncherry Aqua",
+        "types": [
+            "grass",
+            "water"
+        ],
+        "work": [
+            {
+                "type": "watering",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "broncherry_meat",
+            "lettuce_seeds"
+        ]
+    },
+    {
+        "key": "087",
+        "name": "Petallia",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 3
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "gathering",
+                "level": 2
+            },
+            {
+                "type": "medicine_production",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "beautiful_flower"
+        ]
+    },
+    {
+        "key": "088",
+        "name": "Reptyro",
+        "types": [
+            "fire",
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 3
+            },
+            {
+                "type": "mining",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "flame_organ"
+        ]
+    },
+    {
+        "key": "088B",
+        "name": "Reptyro Cryst",
+        "types": [
+            "ice",
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "mining",
+                "level": 3
+            },
+            {
+                "type": "cooling",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "ice_organ"
+        ]
+    },
+    {
+        "key": "089",
+        "name": "Kingpaca",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "wool"
+        ]
+    },
+    {
+        "key": "089B",
+        "name": "Kingpaca Cryst",
+        "types": [
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "cooling",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "wool",
+            "ice_organ"
+        ]
+    },
+    {
+        "key": "090",
+        "name": "Mammorest",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "mining",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "high_quality_pal_oil",
+            "leather",
+            "mammorest_meat"
+        ]
+    },
+    {
+        "key": "090B",
+        "name": "Mammorest Cryst",
+        "types": [
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "mining",
+                "level": 2
+            },
+            {
+                "type": "cooling",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "high_quality_pal_oil",
+            "leather",
+            "mammorest_meat"
+        ]
+    },
+    {
+        "key": "091",
+        "name": "Wumpo",
+        "types": [
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 3
+            },
+            {
+                "type": "cooling",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 4
+            }
+        ],
+        "drops": [
+            "ice_organ",
+            "beautiful_flower"
+        ]
+    },
+    {
+        "key": "091B",
+        "name": "Wumpo Botan",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 3
+            },
+            {
+                "type": "transporting",
+                "level": 4
+            }
+        ],
+        "drops": [
+            "lettuce_seeds",
+            "tomato_seeds",
+            "beautiful_flower"
+        ]
+    },
+    {
+        "key": "092",
+        "name": "Warsect",
+        "types": [
+            "grass",
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "lumbering",
+                "level": 3
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "honey"
+        ]
+    },
+    {
+        "key": "092B",
+        "name": "Warsect Terra",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "mining",
+                "level": 3
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "coal"
+        ]
+    },
+    {
+        "key": "093",
+        "name": "Fenglope",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "lumbering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "leather",
+            "horn"
+        ]
+    },
+    {
+        "key": "094",
+        "name": "Felbat",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "medicine_production",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "cloth",
+            "small_pal_soul"
+        ]
+    },
+    {
+        "key": "095",
+        "name": "Quivern",
+        "types": [
+            "dragon"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            },
+            {
+                "type": "gathering",
+                "level": 2
+            },
+            {
+                "type": "mining",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "high_quality_pal_oil"
+        ]
+    },
+    {
+        "key": "095B",
+        "name": "Quivern Botan",
+        "types": [
+            "dragon",
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            },
+            {
+                "type": "gathering",
+                "level": 2
+            },
+            {
+                "type": "mining",
+                "level": 2
+            },
+            {
+                "type": "planting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "high_quality_pal_oil"
+        ]
+    },
+    {
+        "key": "096",
+        "name": "Blazamut",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 3
+            },
+            {
+                "type": "mining",
+                "level": 4
+            }
+        ],
+        "drops": [
+            "coal",
+            "flame_organ"
+        ]
+    },
+    {
+        "key": "096B",
+        "name": "Blazamut Ryu",
+        "types": [
+            "dragon",
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 3
+            },
+            {
+                "type": "mining",
+                "level": 4
+            }
+        ],
+        "drops": [
+            "coal",
+            "medium_pal_soul",
+            "precious_claw"
+        ]
+    },
+    {
+        "key": "097",
+        "name": "Helzephyr",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "venom_gland",
+            "medium_pal_soul"
+        ]
+    },
+    {
+        "key": "097B",
+        "name": "Helzephyr Lux",
+        "types": [
+            "dark",
+            "electric"
+        ],
+        "work": [
+            {
+                "type": "generating_electricity",
+                "level": 3
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "venom_gland",
+            "medium_pal_soul"
+        ]
+    },
+    {
+        "key": "098",
+        "name": "Astegon",
+        "types": [
+            "dragon",
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "mining",
+                "level": 4
+            }
+        ],
+        "drops": [
+            "pal_metal_ingot",
+            "pure_quartz"
+        ]
+    },
+    {
+        "key": "099",
+        "name": "Menasting",
+        "types": [
+            "dark",
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "mining",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "coal",
+            "venom_gland"
+        ]
+    },
+    {
+        "key": "099B",
+        "name": "Menasting Terra",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "mining",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "crude_oil",
+            "flame_organ"
+        ]
+    },
+    {
+        "key": "100",
+        "name": "Anubis",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 4
+            },
+            {
+                "type": "mining",
+                "level": 3
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "bone",
+            "large_pal_soul",
+            "innovative_technical_manual"
+        ]
+    },
+    {
+        "key": "101",
+        "name": "Jormuntide",
+        "types": [
+            "dragon",
+            "water"
+        ],
+        "work": [
+            {
+                "type": "watering",
+                "level": 4
+            }
+        ],
+        "drops": [
+            "pal_fluids"
+        ]
+    },
+    {
+        "key": "101B",
+        "name": "Jormuntide Ignis",
+        "types": [
+            "dragon",
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 4
+            }
+        ],
+        "drops": [
+            "high_quality_pal_oil",
+            "flame_organ"
+        ]
+    },
+    {
+        "key": "102",
+        "name": "Suzaku",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "flame_organ"
+        ]
+    },
+    {
+        "key": "102B",
+        "name": "Suzaku Aqua",
+        "types": [
+            "water"
+        ],
+        "work": [
+            {
+                "type": "watering",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "pal_fluids"
+        ]
+    },
+    {
+        "key": "103",
+        "name": "Grizzbolt",
+        "types": [
+            "electric"
+        ],
+        "work": [
+            {
+                "type": "generating_electricity",
+                "level": 3
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "electric_organ",
+            "leather"
+        ]
+    },
+    {
+        "key": "104",
+        "name": "Lyleen",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "planting",
+                "level": 4
+            },
+            {
+                "type": "handiwork",
+                "level": 3
+            },
+            {
+                "type": "medicine_production",
+                "level": 3
+            },
+            {
+                "type": "gathering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "low_grade_medical_supplies",
+            "beautiful_flower",
+            "innovative_technical_manual"
+        ]
+    },
+    {
+        "key": "104B",
+        "name": "Lyleen Noct",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 3
+            },
+            {
+                "type": "medicine_production",
+                "level": 3
+            },
+            {
+                "type": "gathering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "low_grade_medical_supplies",
+            "beautiful_flower",
+            "innovative_technical_manual"
+        ]
+    },
+    {
+        "key": "105",
+        "name": "Faleris",
+        "types": [
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "kindling",
+                "level": 3
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "flame_organ"
+        ]
+    },
+    {
+        "key": "106",
+        "name": "Orserk",
+        "types": [
+            "dragon",
+            "electric"
+        ],
+        "work": [
+            {
+                "type": "generating_electricity",
+                "level": 4
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "electric_organ"
+        ]
+    },
+    {
+        "key": "107",
+        "name": "Shadowbeak",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "pal_metal_ingot",
+            "carbon_fiber",
+            "innovative_technical_manual"
+        ]
+    },
+    {
+        "key": "108",
+        "name": "Paladius",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "mining",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "pal_metal_ingot",
+            "diamond"
+        ]
+    },
+    {
+        "key": "109",
+        "name": "Necromus",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "mining",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "pal_metal_ingot",
+            "large_pal_soul"
+        ]
+    },
+    {
+        "key": "110",
+        "name": "Frostallion",
+        "types": [
+            "ice"
+        ],
+        "work": [
+            {
+                "type": "cooling",
+                "level": 4
+            }
+        ],
+        "drops": [
+            "ice_organ",
+            "diamond"
+        ]
+    },
+    {
+        "key": "110B",
+        "name": "Frostallion Noct",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 4
+            }
+        ],
+        "drops": [
+            "pure_quartz",
+            "large_pal_soul"
+        ]
+    },
+    {
+        "key": "111",
+        "name": "Jetragon",
+        "types": [
+            "dragon"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "pure_quartz",
+            "polymer",
+            "carbon_fiber",
+            "diamond"
+        ]
+    },
+    {
+        "key": "112",
+        "name": "Bellanoir",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "medicine_production",
+                "level": 4
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": []
+    },
+    {
+        "key": "112B",
+        "name": "Bellanoir Libero",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "medicine_production",
+                "level": 4
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": []
+    },
+    {
+        "key": "113",
+        "name": "Selyne",
+        "types": [
+            "dark",
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "handiwork",
+                "level": 3
+            },
+            {
+                "type": "medicine_production",
+                "level": 4
+            },
+            {
+                "type": "transporting",
+                "level": 3
+            }
+        ],
+        "drops": [
+            "cloth",
+            "sapphire",
+            "precious_claw"
+        ]
+    },
+    {
+        "key": "114",
+        "name": "Croajiro",
+        "types": [
+            "water"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 1
+            },
+            {
+                "type": "watering",
+                "level": 1
+            }
+        ],
+        "drops": [
+            "pal_fluids",
+            "cloth"
+        ]
+    },
+    {
+        "key": "115",
+        "name": "Lullu",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "medicine_production",
+                "level": 2
+            },
+            {
+                "type": "planting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "beautiful_flower",
+            "red_berries"
+        ]
+    },
+    {
+        "key": "116",
+        "name": "Shroomer",
+        "types": [
+            "grass"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "planting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "mushroom",
+            "red_berries"
+        ]
+    },
+    {
+        "key": "116B",
+        "name": "Shroomer Noct",
+        "types": [
+            "grass",
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 1
+            },
+            {
+                "type": "planting",
+                "level": 2
+            }
+        ],
+        "drops": [
+            "venom_gland",
+            "mysterious_mushroom"
+        ]
+    },
+    {
+        "key": "117",
+        "name": "Kikit",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "mining",
+                "level": 1
+            }
+        ],
+        "drops": []
+    },
+    {
+        "key": "118",
+        "name": "Sootseer",
+        "types": [
+            "dark",
+            "fire"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "kindling",
+                "level": 3
+            },
+            {
+                "type": "handiwork",
+                "level": 2
+            },
+            {
+                "type": "mining",
+                "level": 2
+            },
+            {
+                "type": "farming",
+                "level": 1
+            }
+        ],
+        "drops": []
+    },
+    {
+        "key": "119",
+        "name": "Prixter",
+        "types": [
+            "dark",
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            },
+            {
+                "type": "lumbering",
+                "level": 3
+            },
+            {
+                "type": "medicine_production",
+                "level": 1
+            }
+        ],
+        "drops": []
+    },
+    {
+        "key": "120",
+        "name": "Knocklem",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 3
+            },
+            {
+                "type": "mining",
+                "level": 3
+            },
+            {
+                "type": "transporting",
+                "level": 4
+            }
+        ],
+        "drops": []
+    },
+    {
+        "key": "121",
+        "name": "Yakumo",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 2
+            }
+        ],
+        "drops": []
+    },
+    {
+        "key": "122",
+        "name": "Dogen",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 2
+            },
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "handiwork",
+                "level": 3
+            },
+            {
+                "type": "medicine_production",
+                "level": 1
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": []
+    },
+    {
+        "key": "123",
+        "name": "Dazemu",
+        "types": [
+            "ground"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 2
+            }
+        ],
+        "drops": []
+    },
+    {
+        "key": "124",
+        "name": "Mimog",
+        "types": [
+            "neutral"
+        ],
+        "work": [
+            {
+                "type": "gathering",
+                "level": 1
+            }
+        ],
+        "drops": []
+    },
+    {
+        "key": "125",
+        "name": "Xenovader",
+        "types": [
+            "dark"
+        ],
+        "work": [
+            {
+                "type": "lumbering",
+                "level": 2
+            },
+            {
+                "type": "transporting",
+                "level": 2
+            }
+        ],
+        "drops": []
+    },
+    {
+        "key": "126",
+        "name": "Xenogard",
+        "types": [
+            "dragon"
+        ],
+        "work": [
+            {
+                "type": "mining",
+                "level": 3
+            }
+        ],
+        "drops": []
+    }
+]
