@@ -18,7 +18,6 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
       theme: ThemeData.dark(),
       scrollBehavior: const CupertinoScrollBehavior()
           .copyWith(dragDevices: {PointerDeviceKind.mouse}, scrollbars: false),
@@ -87,15 +86,19 @@ class _HomePageState extends State<HomePage> {
         title: const Text('Paldeck'),
         forceMaterialTransparency: true,
         actions: [
-          IconButton(
-            onPressed: () {
-              setState(() {
-                _ongoing = !_ongoing;
-              });
-            },
-            icon: _ongoing
-                ? const Icon(Icons.radio_button_checked_rounded)
-                : const Icon(Icons.radio_button_off_rounded),
+          _progressBar(),
+          Tooltip(
+            message: _ongoing ? 'Show Completed' : 'Hide Completed',
+            child: IconButton(
+              onPressed: () {
+                setState(() {
+                  _ongoing = !_ongoing;
+                });
+              },
+              icon: _ongoing
+                  ? const Icon(Icons.radio_button_checked_rounded)
+                  : const Icon(Icons.radio_button_off_rounded),
+            ),
           ),
         ],
       ),
@@ -217,6 +220,77 @@ class _HomePageState extends State<HomePage> {
           ),
         ),
       ],
+    );
+  }
+
+  Widget _progressBar() {
+    final list = widget.items ?? const [];
+    final total = list.length.coerceAtLeast(1);
+
+    var found = 0, completed = 0;
+    for (final item in list) {
+      final amount = _saved[item.key] ?? 0;
+      if (amount > 0) found++;
+      if (amount >= 12) completed++;
+    }
+
+    return Container(
+      height: 8,
+      constraints: const BoxConstraints(maxWidth: 260),
+      decoration: BoxDecoration(
+        color: Colors.black.withOpacity(0.4),
+        borderRadius: BorderRadius.circular(8),
+      ),
+      child: Stack(
+        children: [
+          Row(
+            children: [
+              Expanded(
+                flex: found,
+                child: Tooltip(
+                  message: 'Found ($found/$total)',
+                  child: Container(
+                    decoration: BoxDecoration(
+                      color: const Color(0xFFbbf7d0),
+                      borderRadius: BorderRadius.circular(8),
+                      boxShadow: const [
+                        BoxShadow(
+                          blurRadius: 1,
+                          offset: Offset(1, 1),
+                        )
+                      ],
+                    ),
+                  ),
+                ),
+              ),
+              Spacer(flex: total - found),
+            ],
+          ),
+          Row(
+            children: [
+              Expanded(
+                flex: completed,
+                child: Tooltip(
+                  message: 'Completed ($completed/$total)',
+                  child: Container(
+                    decoration: BoxDecoration(
+                      color: const Color(0xFF93c5fd),
+                      borderRadius: BorderRadius.circular(8),
+                      boxShadow: const [
+                        BoxShadow(
+                          blurRadius: 1,
+                          offset: Offset(1, 1),
+                        )
+                      ],
+                    ),
+                  ),
+                ),
+              ),
+              Spacer(flex: total - completed),
+            ],
+          ),
+        ],
+      ),
     );
   }
 
